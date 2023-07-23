@@ -1,5 +1,5 @@
 html, body{
-    background-image: url('C:/Users/kchal/Downloads/spotify image.jpg');
+    background-image: url('spotify image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
@@ -7,7 +7,7 @@ html, body{
   }
   
   header {
-    background-image: url('C:/Users/kchal/Downloads/spotify image.jpg');
+    background-image: url('spotify image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: #FFF;
@@ -76,7 +76,7 @@ html, body{
   }
   
   section {
-    background-image:url("C:/Users/kchal/Downloads/background.jpg");
+    background-image:url("background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
