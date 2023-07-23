@@ -1,0 +1,113 @@
+html, body{
+    background-image: url('C:/Users/kchal/Downloads/spotify image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-image: url('C:/Users/kchal/Downloads/spotify image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFF;
+    padding: 10px 0;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .logo img{
+    height: 80px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #FFF;
+    text-decoration: none;
+    padding: 5px 10px;
+  }
+  
+  #login {
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  #login h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #login h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  form input {
+    display: block;
+    width: 300px;
+    padding: 10px;
+    margin: 0 auto 10px;
+    border-radius: 4px;
+    border: none;
+  }
+  
+  form button {
+    display: block;
+    width: 150px;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 4px;
+    border: none;
+    background-color: #1DB954;
+    color: #FFF;
+    font-weight: bold;
+  }
+  
+  section {
+    background-image:url("C:/Users/kchal/Downloads/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: pink;
+    padding: 80px 0;
+    text-align: center;
+  }
+  
+  section h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+  }
+  
+  section p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  section ul {
+    list-style: none;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  section li {
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background-color: #1DB954;
+    color: #FFF;
+    padding: 10px;
+    text-align: center;
+  }
